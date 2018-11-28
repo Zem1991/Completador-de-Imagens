@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'd:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\release\chromasquad.exe' is denied.
+  main.c
+  pdi.c
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\imagem.c(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\imagem.c(206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\cores.c(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\cores.c(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\cores.c(385): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\segmenta.c(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\segmenta.c(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\segmenta.c(371): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(229): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(299): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(300): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(669): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(717): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(723): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(779): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(827): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(833): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(872): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(1235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\processamento digital de imagens\trabalhofinal_completadordeimagens\chromasquad\filtros2d.c(1227): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : fatal error LNK1104: cannot open file 'D:\Dropbox\Processamento Digital de Imagens\TrabalhoFinal_CompletadorDeImagens\Release\ChromaSquad.exe'
